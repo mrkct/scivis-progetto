@@ -10,6 +10,7 @@ Il dataset non è quello originale ma una versione trasformata, con molte righe 
     numpy
     pandas
     matplotlib
+    jupyter
     folium (per le mappe coropletiche)
 
 ## Link a materiali utili etc.
